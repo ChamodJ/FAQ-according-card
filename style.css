@@ -8,15 +8,17 @@ body {
 
 main {
    background-color: white;
-   width: 20rem;
+   width: 17rem;
    min-height: 70vh;
    max-height: 80vh;
-   padding: 25px;
+   padding: 20px;
+   border: none;
+   border-radius: 20px;
 }
 
 .question {
    color: hsl(240, 6%, 50%);
-   font-size: 1rem;
+   font-size: 0.8rem;
 }
 
 .answer-div {
@@ -26,7 +28,7 @@ main {
 
 .answer {
    color: hsl(240, 6%, 50%);
-   font-size: 0.8rem;
+   font-size: 0.6rem;
 }
 
 hr {
@@ -46,4 +48,14 @@ hr {
 .active::after {
    content: url(images/icon-arrow-down.svg);
    transform: rotate(180deg);
+}
+
+.pattern {
+   position: absolute;
+   width: 20px;
+}
+
+.pic {
+   position: absolute;
+   width: 20px;
 }
