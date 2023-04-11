@@ -65,13 +65,13 @@ hr {
 .pattern {
    position: absolute;
    width: 220px;
-   top: 130px;
-   right: 90px;
+   top: 19vh;
+   right: 20vw;
 }
 
 .pic {
    position: absolute;
    width: 220px;
-   top: 30px;
-   right: 80px;
+   top: 4.5vh;
+   right: 18vw;
 }
