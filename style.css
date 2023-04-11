@@ -9,6 +9,7 @@ body {
 main {
    background-color: white;
    width: 17rem;
+   max-width: 650px;
    height: 80vh;
    padding: 20px;
    border: none;
