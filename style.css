@@ -62,16 +62,62 @@ hr {
    transform: rotate(180deg);
 }
 
-.pattern {
+.pattern-mob {
    position: absolute;
    width: 220px;
    top: 19vh;
    right: 20vw;
 }
 
-.pic {
+.pic-mob {
    position: absolute;
    width: 220px;
    top: 4.5vh;
    right: 18vw;
+}
+
+.pattern-dec, .pic-dec, .box-pic {
+   display: none;
+}
+
+@media only screen and (min-width: 992px) {
+   main {
+      width: 40rem;
+      min-height: 60vh;
+      max-height: 800px;
+      padding: 20px;
+      margin-top: 0;
+
+      display: flex;
+      justify-content: space-between;
+   }
+
+   .image-div {
+      width: 50%;
+   }
+
+   .faq-sec {
+      width: 50%;
+      margin-top: 0px;
+      font-size: 1rem;
+   }
+
+   .hedding {
+      text-align: start;
+      margin-bottom: 30px;
+   }
+
+   .question {
+      font-size: 0.9rem;
+   }
+
+   .answer {
+      font-size: 0.7rem;
+   }
+
+   .question:hover {
+      color: hsl(14, 88%, 65%);
+   }
+
+   
 }
