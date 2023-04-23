@@ -45,7 +45,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [https://www.linkedin.com/in/janendra-chamod-perera/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/ChamodJ]
 
