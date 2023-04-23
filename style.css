@@ -65,14 +65,14 @@ hr {
 .pattern-mob {
    position: absolute;
    width: 220px;
-   top: 19vh;
+   top: 20vh;
    right: 20vw;
 }
 
 .pic-mob {
    position: absolute;
    width: 220px;
-   top: 4.5vh;
+   top: 5vh;
    right: 18vw;
 }
 
@@ -80,7 +80,7 @@ hr {
    display: none;
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 800px) {
    main {
       width: 40rem;
       min-height: 60vh;
@@ -94,6 +94,8 @@ hr {
 
    .image-div {
       width: 50%;
+      position: relative;
+      margin: 0;
    }
 
    .faq-sec {
@@ -119,5 +121,16 @@ hr {
       color: hsl(14, 88%, 65%);
    }
 
+   .pattern-mob {
+      width: 280px;
+      top: 25vh;
+      right: 9vw;
+   }
+   
+   .pic-mob {
+      width: 280px;
+      top: 8vh;
+      right: 9vw;
+   }
    
 }
