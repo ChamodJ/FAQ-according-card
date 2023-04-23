@@ -20,8 +20,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![]("C:\Users\VICTUS\Pictures\Screenshots\Screenshot 2023-04-23 225051.png")
-![Alt text](../../../Pictures/Screenshots/Screenshot%202023-04-23%20225122.png)
+![Alt text](Screenshot%202023-04-23%20225051.png)
+![Alt text](Screenshot%202023-04-23%20225122.png)
 
 ### Links
 
