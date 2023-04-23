@@ -62,22 +62,18 @@ hr {
    transform: rotate(180deg);
 }
 
-.pattern-mob {
+.pattern {
    position: absolute;
    width: 220px;
    top: 20vh;
    right: 20vw;
 }
 
-.pic-mob {
+.pic {
    position: absolute;
    width: 220px;
    top: 5vh;
    right: 18vw;
-}
-
-.pattern-dec, .pic-dec, .box-pic {
-   display: none;
 }
 
 @media only screen and (min-width: 800px) {
@@ -121,13 +117,13 @@ hr {
       color: hsl(14, 88%, 65%);
    }
 
-   .pattern-mob {
+   .pattern {
       width: 280px;
       top: 25vh;
       right: 9vw;
    }
    
-   .pic-mob {
+   .pic {
       width: 280px;
       top: 8vh;
       right: 9vw;
